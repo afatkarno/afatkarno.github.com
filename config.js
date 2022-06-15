@@ -34,7 +34,6 @@ var config = {
         balloons_flying: "Hi, Touch Me biyy",
         cake_fadein: "Hi, Touch Me biyy",
         light_candle: "Hi, Touch Me biyy",
-        wish_message: "Hi, Touch Me biyy",
         story: "A MESSAGE FOR YOU",
     }
 };
